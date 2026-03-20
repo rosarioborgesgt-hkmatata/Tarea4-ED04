@@ -4,7 +4,7 @@
  */
 package tarea4;
 
-public class JavaApplication9 {
+public class Tarea4 {
 
     public static void main(String[] args) {
         System.out.println("Febrero de 2026 tiene " + Utilidades.diasEnMesArray(2, 2026) + " d�as");
